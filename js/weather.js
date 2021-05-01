@@ -18,7 +18,7 @@ function getWeather(lat, lon){
   })
 }
 
-function saveCoords(){
+function saveCoords(coordsObj){
   localStorage.setItem(COORDS, JSON.stringify(coordsObj));
 }
 
