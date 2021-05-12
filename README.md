@@ -1,4 +1,4 @@
-# momontom.github.io
+# momontom
 ## nomadcoder 바닐라JS 2주 챌린지 최종 과제 완성본
 
 - 구현기능
